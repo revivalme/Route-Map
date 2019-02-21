@@ -1,1 +1,5 @@
-Route-map
+# Installation
+```sh
+npm install 
+npm run dev
+```
